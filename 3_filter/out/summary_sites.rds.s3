@@ -1,0 +1,52 @@
+built:
+  at: 2017-08-28 02:52:35 0000
+  by: aappling
+  from:
+    3_filter/src/summarize_sites.R:
+      modified: 2017-08-28 00:04:46 0000
+    3_filter/src/summarize_samples.R:
+      modified: 2017-08-23 23:15:01 0000
+    1_get_raw_data/out/SampleGanttCharts_wRanks.xlsx:
+      cached:
+        remote.at: 2017-08-14 19:37:53 0000
+        by: dev-owi
+      retrieved:
+        remote.at: 2017-08-14 19:37:53 0000
+        local.at: 2017-08-28 02:52:33 0000
+        by: aappling
+    2_clean_sample/out/sample_data.rds:
+      built:
+        at: 2017-08-28 02:52:19 0000
+        by: aappling
+        from:
+          2_clean_sample/src/clean_sample_data.R:
+            modified: 2017-08-27 16:23:27 0000
+          1_get_raw_data/out/USGS_WQ_DATA_02-16.xlsx:
+            cached:
+              remote.at: 2017-08-14 15:04:22 0000
+              by: dev-owi
+            retrieved:
+              remote.at: 2017-08-14 15:04:22 0000
+              local.at: 2017-08-28 02:52:14 0000
+              by: aappling
+          lib/src/status.R:
+            modified: 2017-08-28 00:29:56 0000
+          lib/src/s3.R:
+            modified: 2017-08-27 23:19:42 0000
+          lib/cfg/s3_config.yaml:
+            modified: 2017-08-27 18:37:56 0000
+      cached:
+        remote.at: 2017-08-28 02:52:22 0000
+        by: aappling
+    3_filter/cfg/filter_config.yaml:
+      modified: 2017-08-23 23:14:03 0000
+    lib/src/status.R:
+      modified: 2017-08-28 00:29:56 0000
+    lib/src/s3.R:
+      modified: 2017-08-27 23:19:42 0000
+    lib/cfg/s3_config.yaml:
+      modified: 2017-08-27 18:37:56 0000
+cached:
+  remote.at: 2017-08-28 02:52:37 0000
+  by: aappling
+
