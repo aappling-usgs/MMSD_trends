@@ -1,5 +1,5 @@
 built:
-  at: 2017-08-28 02:52:19 0000
+  at: 2017-08-30 00:24:13 0000
   by: aappling
   from:
     2_clean_sample/src/clean_sample_data.R:
@@ -10,7 +10,7 @@ built:
         by: dev-owi
       retrieved:
         remote.at: 2017-08-14 15:04:22 0000
-        local.at: 2017-08-28 02:52:14 0000
+        local.at: 2017-08-30 00:24:08 0000
         by: aappling
     lib/src/status.R:
       modified: 2017-08-28 00:29:56 0000
@@ -19,6 +19,6 @@ built:
     lib/cfg/s3_config.yaml:
       modified: 2017-08-27 18:37:56 0000
 cached:
-  remote.at: 2017-08-28 02:52:22 0000
+  remote.at: 2017-08-30 00:24:17 0000
   by: aappling
 
