@@ -1,6 +1,6 @@
 # Makefile for merge phase
 
-5_merge : 5_merge/doc/progress.csv 5_merge/doc/data_checks.pdf
+5_merge : 5_merge/doc/progress.csv.loc 5_merge/doc/data_checks.pdf.s3
 	@echo "Made all for 5_merge.mak"
 
 # this first target actually creates a bunch of .rds files as well as the .csv
